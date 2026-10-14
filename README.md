@@ -1,6 +1,6 @@
-# SSwavRecorder
+# SSWavRecorder
 
-**Super Simple WAV Recorder**
+**AKA - Super Simple WAV Recorder :)**
 
 
 ![SSwavRecorder Preview](assets/app_preview.jpg)

@@ -1,0 +1,22 @@
+# Local machine configuration
+local.properties
+
+# Gradle and Kotlin caches
+.gradle/
+.kotlin/
+
+# Build outputs
+build/
+**/build/
+
+# IDE settings
+.idea/
+*.iml
+
+# Generated Android packages
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db

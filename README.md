@@ -129,4 +129,4 @@ Let's just say this isn't the end of the project.
 
 ## License
 
-No license has been added yet. Until one is included, the repository is publicly viewable, but reuse and redistribution are not automatically granted.
+SSwavRecorder is licensed under the [MIT License](LICENSE).

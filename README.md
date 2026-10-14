@@ -3,7 +3,7 @@
 **Super Simple WAV Recorder**
 
 
-![SSwavRecorder Preview](assets/app_preview.png)
+![SSwavRecorder Preview](assets/app_preview.jpg)
 
 
 A simple Android voice recorder for when you need a `.wav` file and your phone's built-in recorder doesn't offer that option.
